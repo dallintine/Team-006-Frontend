@@ -61,5 +61,17 @@
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.3.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "description": "barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app",
+  "main": ".remarkrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dallintine/Team-006-Frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dallintine/Team-006-Frontend/issues"
+  },
+  "homepage": "https://github.com/dallintine/Team-006-Frontend#readme"
 }
